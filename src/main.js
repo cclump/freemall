@@ -8,7 +8,7 @@ import './assets/css/index.css'
 
 Vue.use(VueAxios,axios);// 关联起来
 
-// 是否需要开启信息提示 。。。
+// 是否需要开启信息提示 。。。123
 Vue.config.productionTip = false
 new Vue({
   router,
